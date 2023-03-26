@@ -3,7 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DavidMarqqs/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/DavidMarqqs/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/DavidMarqqs/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DavidMarqqs/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DavidMarqqs/Pokedex?style=for-the-badge)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
